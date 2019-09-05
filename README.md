@@ -5,6 +5,10 @@
 ##MNIST Latent Space explorer
 * requires keras, tensorflow and pygame
 * to run app
-    code (python explore_pcas.py)
+```python
+python explore_pcas.py
+```
 * to train yourself, rename mnist1.h5 then
-    code (python encoder.py)
+```python
+python encoder.py
+```
