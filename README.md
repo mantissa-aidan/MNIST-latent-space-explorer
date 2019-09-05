@@ -2,7 +2,7 @@
 
 ## Deep/Machine Learning projects for cretins to learn about
 
-##MNIST Latent Space explorer
+## MNIST Latent Space explorer
 * requires keras, tensorflow and pygame
 * to run app
 ```python
