@@ -1,8 +1,7 @@
-# deep-learning
-
-## Deep/Machine Learning projects for cretins to learn about
-
 ## MNIST Latent Space explorer
+
+An autoencoder with a gui where you can drag the sliders around to morph mnist digits into other mnist digits.
+
 * requires keras, tensorflow and pygame
 * to run app
 ```python
